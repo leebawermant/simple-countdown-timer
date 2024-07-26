@@ -108,4 +108,11 @@ ul {
   line-height: 1.7;
   font-size: 19px;
   color: #fff;
+/* SERVICES */
+.services {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  text-align: center;
 }
