@@ -43,7 +43,7 @@ ul {
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
-  }
+  
 }
 .events {
   padding-top: var(--main-padding-top);
@@ -104,6 +104,22 @@ ul {
   font-family: 'Courier New', Courier, monospace;
 }
 .events .description {
+  text-align: center;
+  line-height: 1.7;
+  font-size: 19px;
+  color: #fff;.events .description {
+  text-align: center;
+  line-height: 1.7;
+  font-size: 19px;
+  color: #fff;.events .description {
+  text-align: center;
+  line-height: 1.7;
+  font-size: 19px;
+  color: #fff;.events .description {
+  text-align: center;
+  line-height: 1.7;
+  font-size: 19px;
+  color: #fff;.events .description {
   text-align: center;
   line-height: 1.7;
   font-size: 19px;
